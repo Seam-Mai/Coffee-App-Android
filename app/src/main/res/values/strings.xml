@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Devit</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_home">Home</string>
+    <string name="app_name1">Bottom Navigation</string>
+
+</resources>
